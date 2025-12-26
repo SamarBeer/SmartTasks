@@ -1,12 +1,28 @@
-# React + Vite
+# Smart Tasks – To-Do Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A productivity-focused to-do application designed to help users manage tasks efficiently. The app allows users to create, track, and complete tasks with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🔧 Features
+- Add and delete tasks
+- Mark tasks as completed
+- Dynamic task list updates
+- Clean and responsive UI
+- Focus on simplicity and usability
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React / React Native
+- JavaScript
+- Component-based architecture
+- Git & GitHub
 
-## Expanding the ESLint configuration
+## 📂 Project Highlights
+- State management for dynamic task handling
+- Reusable components
+- User-centric design approach
+- Clean separation of logic and UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Purpose
+This project showcases front-end logic, state management, and UI development skills commonly required in junior and full-stack developer roles.
+
+## 📌 Status
+Completed with scope for future enhancements
